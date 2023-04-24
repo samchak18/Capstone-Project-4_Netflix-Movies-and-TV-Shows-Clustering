@@ -1,6 +1,6 @@
 # Capstone-Project-Netflix-Movies-and-TV-Shows-Clustering-
 This dataset consists of tv shows and movies available on Netflix as of 2020. The dataset is collected from Flexible which is a third-party Netflix search engine.
-AlmaBetter Capstone Project 4 - Unsupervised: Netflix Movies And Tv Shows Clustering
+AlmaBetter Capstone Project  - Unsupervised: Netflix Movies And Tv Shows Clustering
 This project is a part of the Almabetter Pro Program Curriculum(Full Stack Data Science)
 Project Status: [Completed]
 
