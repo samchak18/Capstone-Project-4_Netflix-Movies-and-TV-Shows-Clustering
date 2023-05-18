@@ -1,6 +1,7 @@
 # Capstone-Project-Netflix-Movies-and-TV-Shows-Clustering
 
-AlmaBetter Capstone Project  - Unsupervised: Netflix Movies And Tv Shows Clustering
+AlmaBetter Capstone Project  - Unsupervised: Netflix Movies And Tv Shows Clustering.
+
 Project Status: Completed
 
 
